@@ -151,10 +151,14 @@ jupyter notebook music_recommendation.ipynb
 
 ## 👤 Author
 
-**Yassine Gab**
+**Yassine Gabsi**
 - GitHub: [@yassinegab](https://github.com/yassinegab)
 - Project Repository: [Music-Recommendation-System-](https://github.com/yassinegab/Music-Recommendation-System-)
 
+---
+## 👤 Instructor
+**Oumaima Dridi**
+- GitHub: [@yassinegab](https://github.com/yassinegab)
 ---
 
 ## 📄 License
